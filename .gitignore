@@ -1,1 +1,4 @@
 .env
+workspace.yml
+workspaces.yml
+.coa/

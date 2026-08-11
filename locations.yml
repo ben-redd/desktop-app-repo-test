@@ -1,0 +1,6 @@
+# locations.yml — named storage locations for this repo.
+fileVersion: 1
+defaultStorageMapping: TARGET
+locations:
+  - SRC
+  - TARGET
